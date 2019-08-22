@@ -6,7 +6,7 @@ We are learning to use git and probably get confused.
 
 
 Bubbles Sketch
-![image](bubbles.png)
+![image](images/bubbles.png)
 
 [Bubbles](190815_bubblesClass/index.html)
 
